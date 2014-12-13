@@ -1,4 +1,14 @@
-ML_Projects
-===========
+MLClassProjects
+===============
 
-Andrew Ng's Machine Learning Class Projects  Description:   Ex1 - Gradient Descent, Newton's Method, Linear Regression  Ex2 - Sigmoid Kernels  Ex3 - Logistic Regression Implementation  Ex4 - Neural Networks implementation for Digit Recognition  Ex5 - Regularized Linear Regression, Polynomial Regression  Ex6 - SVM (Kernel implementation) for Spam Classification  Ex8 - Recommender System (Collaborative Filtering) and Anomaly Detection
+Andrew Ng's Machine Learning Class Projects
+
+<b>Description: </b>
+
+<br><b>Ex1</b> - Gradient Descent, Newton's Method, Linear Regression
+<br><b>Ex2</b> - Sigmoid Kernels 
+<br><b>Ex3</b> - Logistic Regression Implementation
+<br><b>Ex4</b> - Neural Networks implementation for Digit Recognition
+<br><b>Ex5</b> - Regularized Linear Regression, Polynomial Regression
+<br><b>Ex6 </b>- SVM (Kernel implementation) for Spam Classification
+<br><b>Ex8</b> - Recommender System (Collaborative Filtering) and Anomaly Detection
